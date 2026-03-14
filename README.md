@@ -2,6 +2,13 @@
 
 A Chrome extension for XDM (Xtreme Download Manager) version 7.2.11 that integrates with the latest Chrome browser using Manifest V3.
 
+## Original Project
+
+This is a Chrome extension for the XDM (Xtreme Download Manager) project.  
+**Original Project**: https://github.com/subhra74/xdm
+
+XDM is a powerful download manager that increases download speeds by up to 500% and features a smart video detection feature.
+
 ## Features
 
 - Seamless integration with XDM download manager
